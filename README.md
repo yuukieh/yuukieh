@@ -33,8 +33,6 @@ Python • C# • SQL • Excel • JavaScript • Git
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yuukieh&theme=onedark&include_all_commits=true&count_private=true)
+![GitHub Stats](github-metrics.svg)
 
-![](https://nirzak-streak-stats.vercel.app/?user=yuukieh&theme=onedark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuukieh&theme=onedark&layout=compact)
+![Most Used Languages](metrics-top-langs.svg)

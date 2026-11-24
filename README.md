@@ -3,8 +3,9 @@
 Information Systems student focused on **Full-Stack Development**, **C#**, and **Python**.
 
 ### 📌 About Me
-- 🔭 Building web applications using **React**, **Tailwind CSS**, and **Vite**.
-- 📚 Expanding my skills across the entire **Full-Stack** cycle and data analysis.
+- 🔭 Building full-stack web applications with **React**, **Tailwind CSS**, **Vite**, and **C# (.NET)**.
+- ⚙️ Automating workflows, web scraping, and data pipelines using **Python**, **Pandas**, and **Playwright**.
+- 🗄️ Working with relational databases (**MySQL** / **SQL Server**) and systems integration.
 
 ---
 
@@ -13,6 +14,7 @@ Information Systems student focused on **Full-Stack Development**, **C#**, and *
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwindcss&logoColor=white)
@@ -28,7 +30,6 @@ Information Systems student focused on **Full-Stack Development**, **C#**, and *
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=plastic&logo=puppeteer&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ---
 
